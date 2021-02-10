@@ -1,8 +1,7 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> <h1>Hello folks</h1> <h2 >My name is <span style="color: blue;">Someshwar</span></h2>
-<h5>I am an aspiring Full Stack Developer currently studying Electronics and Telecommunication Engineering. I always love learning new technologies and building new stuff. I often find myself wondering about the universe in my leisure time.
-</h5>
-</div>
+
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> Hello folks, I am Someshwar 
+##### I am an Indian national, currently studying Electronics and Telecommunication Engineering. I love to code and work on exciting projects. I love learning new technologies and trying them out. I often find myself wondering about the universe and life in my leisure time.
+
 <br/>
 <div align="center"> 
 <a href="hhttps://www.linkedin.com/in/someshwarrc/"><img src="https://img.shields.io/badge/-iamsrc-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://twitter.com/iamsrc_
