@@ -1,8 +1,5 @@
-<div style="display: flex; flex-direction: column;">
-<div style="position: relative; background-color: #3ca5d6;width: 100%; height: 300px; border-radius: 10px; padding: 10px;">
-<img style="position:absolute; top: 10px; left: 10px; padding: 0; margin: 0;" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" style="z-index: 99;">
-<h1 style="position:absolute; top: 10px; left: 100px; padding: 0; margin: 0;">Hello folks</h1>
-<h2 style="position:absolute; top: 60px; left: 190px; padding: 0; margin: 0;">My name is <span style="color: blue;">Someshwar</span></h2>
+<div align="center>
+<img style="position:absolute; top: 10px; left: 10px; padding: 0; margin: 0;" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> <h1 style="position:absolute; top: 10px; left: 100px; padding: 0; margin: 0;">Hello folks</h1> <h2 style="position:absolute; top: 60px; left: 190px; padding: 0; margin: 0;">My name is <span style="color: blue;">Someshwar</span></h2>
 <h5 style="position:absolute; top: 150px; left: 20px; padding: 0; margin: 0;">I am an aspiring Full Stack Developer currently studying Electronics and Telecommunication Engineering. I always love learning new technologies and building new stuff. I often find myself wondering about the universe in my leisure time.
 </h5>
 </div>
@@ -14,9 +11,8 @@
 </div>
 <br/>
 
-<div style="background-color: black; padding: 10px; border-radius: 10px;">
-
-<h2 style="color: white;">Technologies I love to work with</h2>
+<div align="center">
+<h2 float="left">Technologies I love to work with</h2>
 <img src="https://img.shields.io/badge/-reactjs-blue?style=for-the-badge&logo=react&logoColor=white">
 
 <img src="https://img.shields.io/badge/-nodejs-green?style=for-the-badge&logo=node.js&logoColor=white">
@@ -45,7 +41,7 @@
 </div>
 
 
-<div style="width: 100%; display: flex; flex-direction:column; justify-content: center; align-items: center; background-color: #fff; padding: 0;border-radius: 10px; ">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshwarrc&layout=compact&theme=white" max-width="70%" max-width="100%" height="200px" style="margin: 0;"> <img src="https://github-readme-stats.vercel.app/api?username=someshwarrc&show_icons=true&theme=white" max-width="70%" height="200px" style="margin:0;">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshwarrc&layout=compact&theme=white"> <img src="https://github-readme-stats.vercel.app/api?username=someshwarrc&show_icons=true&theme=white">
 </div>
 </div>
