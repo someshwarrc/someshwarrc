@@ -1,6 +1,8 @@
+<div align="center">
+<img src="./hero.gif"> 
 
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> Hello folks, I am Someshwar 
 ##### I am an Indian national, currently studying Electronics and Telecommunication Engineering. I love to code and work on exciting projects. I love learning new technologies and trying them out. I often find myself wondering about the universe and life in my leisure time.
+</div>
 
 <br/>
 <div align="center"> 
