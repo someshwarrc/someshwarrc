@@ -7,7 +7,7 @@
 </h5>
 </div>
 <br/>
-<div style="display: flex; justify-content: center;"> 
+<div align="center"> 
 <a href="hhttps://www.linkedin.com/in/someshwarrc/"><img src="https://img.shields.io/badge/-iamsrc-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://twitter.com/iamsrc_
 "><img src="https://img.shields.io/badge/-iamsrc-lightblue?style=for-the-badge&logo=twitter&logoColor=black"></a><a href="https://www.facebook.com/iiamsrc/"><img src="https://img.shields.io/badge/-iiamsrc-blue?style=for-the-badge&logo=facebook&logoColor=white"></a><a href="https://www.hackerrank.com/someshwarrc"><img src="https://img.shields.io/badge/-someshwarrc-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"></a><a href="https://leetcode.com/someshwarrc/
 "><img src="https://img.shields.io/badge/-someshwarrc-yellow?style=for-the-badge&logo=leetcode&logoColor=black"></a>
