@@ -1,7 +1,6 @@
 <div style="display: flex; flex-direction: column;">
 <div style="position: relative; background-color: #3ca5d6;width: 100%; height: 300px; border-radius: 10px; padding: 10px;">
 <img style="position:absolute; top: 10px; left: 10px; padding: 0; margin: 0;" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" style="z-index: 99;">
-<img src ="./flag" style="opacity: 0.6; z-index:-99; width: 50%; height: 100px;">
 <h1 style="position:absolute; top: 10px; left: 100px; padding: 0; margin: 0;">Hello folks</h1>
 <h2 style="position:absolute; top: 60px; left: 190px; padding: 0; margin: 0;">My name is <span style="color: blue;">Someshwar</span></h2>
 <h5 style="position:absolute; top: 150px; left: 20px; padding: 0; margin: 0;">I am an aspiring Full Stack Developer currently studying Electronics and Telecommunication Engineering. I always love learning new technologies and building new stuff. I often find myself wondering about the universe in my leisure time.
